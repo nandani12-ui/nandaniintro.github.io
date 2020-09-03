@@ -1,0 +1,131 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: century Gothic;
+ }
+   
+   header{
+   background-image: url(../wallpaper.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+ .title2{
+    position: absolute;
+    top : 1%;
+    left: 10%;
+    font-size: 32px;
+}
+ .title2 h1{
+    color: #33ccff
+
+;
+}
+.title3{
+    position: absolute;
+    top : 15%;
+    left: 1%;
+    font-size: 15px;
+}
+ .title3 h1{
+    color: #33ccff;
+}
+.para1{
+    position: absolute;
+    top : 23%;
+    left: 20%;
+    font-size: 25px;
+}
+ .para1 p{
+    color: white;
+}
+.para2{
+    position: absolute;
+    top : 28%;
+    left: 20%;
+    font-size: 25px;
+}
+ .para2 p{
+    color: white;
+}
+.para3{
+    position: absolute;
+    top : 33%;
+    left: 20%;
+    font-size: 25px;
+}
+ .para3 p{
+    color: white;
+}
+.title4{
+    position: absolute;
+    top : 40%;
+    left: 1%;
+    font-size: 15px;
+}
+ .title4 h1{
+    color: #33ccff;
+}
+.para4{
+    position: absolute;
+    top : 48%;
+    left: 20%;
+    font-size: 25px;
+}
+ .para4 p{
+    color: white;
+}
+.para5{
+    position: absolute;
+    top : 53%;
+    left: 20%;
+    font-size: 25px;
+}
+ .para5 p{
+    color: white;
+}
+.para6{
+    position: absolute;
+    top : 58%;
+    left: 20%;
+    font-size: 25px;
+}
+ .para6 p{
+    color: white;
+}
+.title5{
+    position: absolute;
+    top : 65%;
+    left: 1%;
+    font-size: 15px;
+}
+ .title5 h1{
+    color: #33ccff;
+}
+.para7{
+    position: absolute;
+    top : 73%;
+    left: 20%;
+    font-size: 25px;
+}
+ .para7 p{
+    color: white;
+}
+.para8{
+    position: absolute;
+    top : 78%;
+    left: 20%;
+    font-size: 25px;
+}
+ .para8 p{
+    color: white;
+}
+.para9{
+    position: absolute;
+    top : 83%;
+    left: 20%;
+    font-size: 25px;
+}
+ .para9 p{
+    color: white;
+}
